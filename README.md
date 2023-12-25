@@ -36,7 +36,16 @@ Karena saya mempunyai teman anak di universitas institut teknologi bandung, keti
 ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20174018.png?raw=true))
 
 ## Mencoba Console Sistem Operasi
-Saya mencoba beberapa console sistem operasi yaitu 
+Saya mencoba beberapa console sistem operasi yaitu Tinicore dan Rasbery Pie, namun saat saya mengeksplorasi sistem operasi Rasbery pie, terdapat error di partial iso nya. jadi terjadi error saat saya menginstall sistem operasi itu. namun untuk tinycore, sisteM operasi ini berjalan dengan sangat lancar dan hanya berukuran 22 mb saja. cocok untuk menjalankan hal hal yang ringan seperti contohnya Terminal/cmd. berikut screenshot saat saya mengeksplorasi tinycore <br>
+Sistem Operasi Tinycore : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20222801.png?raw=true)<br>
+dan berikut Screenshot error saat saya mencoba install operasi sistem rasberypie pada virtualbox <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20223725.png?raw=true)<br>
+
+
+
+
+
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
@@ -153,16 +162,49 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+setelah saya mengeksplorasi lowongan pekerjaan yang berunsur IT atau teknologi komputer, saya menemukan website lokal indonesia yang menyediakan tempat untuk mencari lowongan lowongan pekerjaan sesuai minat dan skill yang dimiliki oleh orang tersebut. banyak yang di cari atau di butuhkan saat saya mengekplorasi lowongan pekerjaan di website ini yaitu diantaranya ada UI/UX, desainer Web, fullstack developer, Cyber Security, dll. 
+berikut pekerjaan yang ada saat saya memasukan kata kunci "IT" <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20222012.png?raw=true)<br>
+
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
+Saat saya mengeksplorasi Freelancer.com, saya mendapatkan banyak tentang Pengguna yang membutuhkan pekerjaan tertentu dapat memposting proyek atau pekerjaan dengan deskripsi rinci, anggaran, dan tenggat waktu.
+Pekerja lepas dapat menawarkan penawaran untuk proyek tersebut dengan memberikan penawaran harga dan menjelaskan bagaimana mereka akan menyelesaikan tugas tersebut. hal ini cocok untuk orang yang ingin mendapatkan pekerjaan freelance dengan memanfaatkan jalur pengerjaan proyek.
+Berikut Screenshot saya saya mengeksplorasi Freelancer.com <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20221216.png?raw=true)<br>
+
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+Topik yang saya sangat minati tepatnya pada website Roadmap.sh yaitu fullstack developer, flutter dan juga yber security. karena ketiga roadmap tersebut merepukan perjalanan saya yang harus di tempuh dan memiliki keterkaitan. contohnya seperti kita sudah mendevelop aplikasi menggunakan flutter, tapi pengetahuan cyber security nya kita belum menguasai maka ditakutkan ada hal hal yang tidak di inginkan. berikut Roadmap dari ketiga eksplorasi tersebut 
+<br> Fullstack Developer : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202023-12-25%20at%2021.58.42.jpeg?raw=true)<br>
+<br>
+Flutter : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202023-12-25%20at%2022.03.15.jpeg?raw=true)<br>
+<br>
+Cyber Security : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202023-12-25%20at%2022.02.53.jpeg?raw=true)<br>
+
+
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+
+Saat saya mengeksplorasi top github yang sedang trending saat ini, saya menemukan project yang cukup bagus yang berjudul "StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation", project ini berada pada top 2 trending github. dan setelah saya baca baca terkait isi project ini, singkatnya ada sekelompok penulis dan pengembang terdiri dari Akio Kodaira, Chenfeng Xu, Toshiki Hazama, Takanori Yoshimoto, Kohei Ohno, Shogo Mitsuhori, Soichi Sugano, Hanying Cho, Zhijian Liu, dan Kurt Keutzer yang mereka berinoasi dalam perancangan khusus terkait gambar interaktif secara real-time.
+
+dan juga spesifikasi komputer untuk menjalankan projectnay pun tidak main main, yaitu recomended spesifikasinya yaitu GPU: RTX 4090, CPU: Core i9-13900K, dan OS minimalnya dalam versi  Ubuntu 22.04.3 LTS. apabila jika dibandingkan dengan laptop saya maka laptop saya kalah telak, tetapi tidak apa apa. yang penting nugas dan main game point blank lancarrrrr jayaaaa :P.
+<br> 
+berikut screenshot saat saya mengeksploasi github <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202023-12-25%20at%2021.50.34.jpeg?raw=true)
+
+Link gif dari developer : <br>
+![Screenshot (1)](https://github.com/cumulo-autumn/StreamDiffusion/raw/main/assets/demo_09.gif)
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+
+Github page milik saya a/n Fatih Maulana:
+https://github.com/ImYourIgnatius
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
