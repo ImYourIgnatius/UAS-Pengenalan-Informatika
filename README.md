@@ -33,7 +33,7 @@ Superkomputer adalah mesin komputasi paling kuat dan mampu melakukan perhitungan
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 Karena saya mempunyai teman anak di universitas institut teknologi bandung, ketika kami bertukar pikiran dan mengerjakan tugas bareng bareng, saya mengenal google colabs karena disana ada Mata kuliah Pengenalaan Komputer atau selalu disebut Pengkom. dia memiliki tugas yang dikerjakan di Google Colabs, berikut tugasnya yang dikerjakan bareng2 dengan saya saat itu.
-![Screenshot (1)](https://github.com/Fatihmaull/final-exam/assets/144407751/63542a18-3460-474a-9882-b302e2f2f686)
+![Screenshot (1)]([https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20174018.png))
 
 ## Mencoba Console Sistem Operasi
 
