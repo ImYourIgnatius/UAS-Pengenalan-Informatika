@@ -32,10 +32,11 @@ Mikrokontroler adalah jenis mesin komputasi yang terintegrasi dalam perangkat el
 Superkomputer adalah mesin komputasi paling kuat dan mampu melakukan perhitungan yang sangat kompleks dengan kecepatan tinggi. Mereka sering digunakan dalam penelitian ilmiah, permodelan cuaca, dan perhitungan intensif lainnya.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-Karena saya mempunyai teman anak di universitas institut teknologi bandung, ketika kami bertukar pikiran dan mengerjakan tugas bareng bareng, saya mengenal google colabs karena disana ada Mata kuliah Pengenalaan Komputer atau selalu disebut Pengkom. dia memiliki tugas yang dikerjakan di Google Colabs, berikut tugasnya yang dikerjakan bareng2 dengan saya saat itu.
-![Screenshot (1)]([https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20174018.png))
+Karena saya mempunyai teman anak di universitas institut teknologi bandung, ketika kami bertukar pikiran dan mengerjakan tugas bareng bareng, saya mengenal google colabs karena disana ada Mata kuliah Pengenalaan Komputer atau selalu disebut Pengkom. dia memiliki tugas yang dikerjakan di Google Colabs, berikut tugasnya yang dikerjakan bareng dengan saya saat itu. dan juga sekaligus saya mendapatkan ilmu baru karena dengan belajar bareng, saya bisa mengeksplorasi google colab
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20174018.png?raw=true))
 
 ## Mencoba Console Sistem Operasi
+Saya mencoba beberapa console sistem operasi yaitu 
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
