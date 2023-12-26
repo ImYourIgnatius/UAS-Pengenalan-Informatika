@@ -32,7 +32,7 @@ Mikrokontroler adalah jenis mesin komputasi yang terintegrasi dalam perangkat el
 Superkomputer adalah mesin komputasi paling kuat dan mampu melakukan perhitungan yang sangat kompleks dengan kecepatan tinggi. Mereka sering digunakan dalam penelitian ilmiah, permodelan cuaca, dan perhitungan intensif lainnya.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-Karena saya mempunyai teman anak di universitas institut teknologi bandung, ketika kami bertukar pikiran dan mengerjakan tugas bareng bareng, saya mengenal google colabs karena disana ada Mata kuliah Pengenalaan Komputer atau selalu disebut Pengkom. dia memiliki tugas yang dikerjakan di Google Colabs, berikut tugasnya yang dikerjakan bareng dengan saya saat itu. dan juga sekaligus saya mendapatkan ilmu baru karena dengan belajar bareng, saya bisa mengeksplorasi google colab
+Karena saya mempunyai teman di universitas institut teknologi bandung, ketika kami bertukar pikiran dan mengerjakan tugas bareng bareng, saya mengenal google colabs karena disana ada Mata kuliah Pengenalaan Komputer atau selalu disebut Pengkom. dia memiliki tugas yang dikerjakan di Google Colabs, berikut tugasnya yang dikerjakan bareng dengan saya saat itu. dan juga sekaligus saya mendapatkan ilmu baru karena dengan belajar bareng, saya bisa mengeksplorasi google colab
 ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20174018.png?raw=true))
 
 ## Mencoba Console Sistem Operasi
@@ -43,23 +43,29 @@ dan berikut Screenshot error saat saya mencoba install operasi sistem rasberypie
 ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20223725.png?raw=true)<br>
 
 
-
-
-
-
 ### Windows CMD [v] ⭐⭐⭐⭐
+Setelah saya membaca baca tentang CMD, CMD sebuah alat yang berfungsi sebagai perintah dalam terminal windows atau di terminal lainnya yang sama halnya dengan arti dari CMD itu sendiri yaitu Command Line Prompt, selain kita bisa memberi perintah kita juga bisa membuka file file bash, ataupun file dengan ekstensi bat. itu adalah sebagian kecil dari bagian fungsi CMD itu sndiri. dan juga selain itu cmd juga bisa membantu saya dalam penegrjaan tugas seperti mengcompile file java, dll. salah satu pemggunaan yang sering saya lakukan yaitu mngecek ping ke DNS google. seperti contoh screenshot di bawah : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-26%20011005.png?raw=true)<br>
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+ketika saya mngeksplorasi linux terminal menggunakan google colabs, saya menemukan suatu program atau alat bernama Xterm yang fungsinya yaitu untuk melihat kondisi keadaan server python3 yang sedang berjalan. dan saya membaca referensi referensi di internet. ini berguna juga untuk mengakses shell dan terminal dalam lingkungan grafis, menjlaankan program graafis dan juga mengatur terminal sesuai presensi
+berikut ketika saya mencoba running Xterm pada linux google colaboratory : <br>
+
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-26%20014354.png)<br>
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+dengan referensi diatas saya membuat algoritma yang pernah saya alami ketika saat mau berangkat kuliah yaitu salah satunya adalah mencari payung. berikut gambar algortima yang saya buat dengan bantuan website untuk membuat flowchart secara online dan realtime yaitu online.visual-paradigm.com, dengan itu saya bisa mudah membuat flowchart. <br>
+berikut flowchart yang sudah saya buat : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-26%20020339.png?raw=true)<br>
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
+
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
@@ -201,9 +207,11 @@ Link gif dari developer : <br>
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
-Github page milik saya a/n Fatih Maulana:
+Github page milik saya a/n Hilman Maulana:
 https://github.com/ImYourIgnatius
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
