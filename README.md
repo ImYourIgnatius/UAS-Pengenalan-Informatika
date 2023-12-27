@@ -33,6 +33,8 @@ Superkomputer adalah mesin komputasi paling kuat dan mampu melakukan perhitungan
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 Karena saya mempunyai teman di universitas institut teknologi bandung, ketika kami bertukar pikiran dan mengerjakan tugas bareng bareng, saya mengenal google colabs karena disana ada Mata kuliah Pengenalaan Komputer atau selalu disebut Pengkom. dia memiliki tugas yang dikerjakan di Google Colabs, berikut tugasnya yang dikerjakan bareng dengan saya saat itu. dan juga sekaligus saya mendapatkan ilmu baru karena dengan belajar bareng, saya bisa mengeksplorasi google colab
+berikut akun google colaboraty pribadi saya yaitu satrianinja24@gmail.com sebagai driver yang menampung save atau wadah pentimpan yang nanti sudah di kerjakan.
+
 ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20174018.png?raw=true))
 
 ## Mencoba Console Sistem Operasi
@@ -52,7 +54,9 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 ketika saya mngeksplorasi linux terminal menggunakan google colabs, saya menemukan suatu program atau alat bernama Xterm yang fungsinya yaitu untuk melihat kondisi keadaan server python3 yang sedang berjalan. dan saya membaca referensi referensi di internet. ini berguna juga untuk mengakses shell dan terminal dalam lingkungan grafis, menjlaankan program graafis dan juga mengatur terminal sesuai presensi
 berikut ketika saya mencoba running Xterm pada linux google colaboratory : <br>
-
+- tampilan awal google colaboratory : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-27%20072711.png?raw=true)<br>
+- ketika saya mencoba mengrunning Xterm : <br>
 ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-26%20014354.png)<br>
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
@@ -63,19 +67,119 @@ berikut flowchart yang sudah saya buat : <br>
 ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-26%20020339.png?raw=true)<br>
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+Saat saya mengeksplorasi aplikasi scratch, aplikasi ini merupakan website free akses yang di publishkan untuk orang orang yang ingin belajar konsep pemrograman namun dengan suasana enjoy dan menyenangkan, dan web Scratch juga bisa digunakan sebagai alat sederhana untuk mengilustrasikan pemrograman dengan cara menyambungkan block block yang tersedia disana sehingga menjadi puzzle. dan saya mulai tertarik karena katanya dengan scratch kita bisa membuat game sederhana. berikut merupakan hasil game sederhana yang saya inspirasi dari tutorial freelancer youtube dengan nama channel Sunsun GTSN yang pada video tersebut kita bisa membuat game kucing melompat. wkkwkw, sederhana namun menyenangkan. <br>
+Game sederhana yang sudah saya buat menggunakan scratch : <br>
+<br>
+- tampilan awal Scratch
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/2023-12-26-19-59-51.gif?raw=true)<br>
+- game lompat kucing takut kepiting : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/2023-12-26-19-59-51.gif?raw=true)<br>
 
+
+Referensi [1](https://www.youtube.com/watch?v=-MahZIgAxhM)
 Referensi [1](https://scratch.mit.edu/)
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+Bubble Sort adalah metode pengurutan algoritma dengan cara melakukan penukaran data secara terus menerus sampai bisa dipastikan dalam suatu iterasi tertentu tidak ada lagi perubahan/penukaran. Algoritma ini menggunakan perbandingan dalam operasi antar elemennya.
+<br><br>
+Berikut ini adalah gambaran dari algoritma bubble sort:
+- Bandingkan nilai data ke-1 dan data ke-2
+- Jika data ke-1 lebih besar dari data ke-2 maka tukar posisinya
+- Kemudian data yg lebih besar tadi dibandingkan dengan data ke-3
+- Lakukan langkah nomer 2 hingga selesai.
+
+dan juga saya mencoba penggunaan bubble sort menggunakan framework java dengan code berikut : 
+```
+public class BubbleSortExample {
+
+    public static void main(String[] args) {
+        int[] array = {64, 34, 25, 12, 22, 11, 90};
+
+        System.out.println("Array sebelum diurutkan:");
+        printArray(array);
+
+        // Panggil metode bubbleSort untuk mengurutkan array
+        bubbleSort(array);
+
+        System.out.println("\nArray setelah diurutkan:");
+        printArray(array);
+    }
+
+    static void bubbleSort(int[] array) {
+        int n = array.length;
+        for (int i = 0; i < n-1; i++) {
+            for (int j = 0; j < n-i-1; j++) {
+                // Bandingkan elemen berdekatan
+                if (array[j] > array[j+1]) {
+                    // Tukar jika urutan tidak benar
+                    int temp = array[j];
+                    array[j] = array[j+1];
+                    array[j+1] = temp;
+                }
+            }
+        }
+    }
+
+    static void printArray(int[] array) {
+        int n = array.length;
+        for (int i=0; i < n; ++i)
+            System.out.print(array[i] + " ");
+        System.out.println();
+    }
+}
+```
+
+berikut ketika saya mencoba meng running pada aplikasi Visual Studio Code : <br>
+<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-27%20071024.png?raw=true)<br>
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+Penggunaan IDE atau ingkungan pengembangan terintegrasi (IDE) adalah aplikasi perangkat lunak yang membantu para pemrogram mengembangkan kode perangkat lunak secara efisien. Aplikasi ini meningkatkan produktivitas developer dengan menggabungkan kemampuan seperti pengeditan, pembangunan, pengujian, dan pengemasan perangkat lunak dalam aplikasi yang mudah digunakan. Layaknya para penulis yang menggunakan editor teks dan para akuntan yang menggunakan spreadsheet, developer perangkat lunak menggunakan IDE untuk memudahkan pekerjaan mereka. <br>
+jadi intinya penggunaan IDE merupakan sebuah inovasi sebagai alat bantu ketika kita membuat rancangan kode kode untuk membuat dan membangun sebuah program. penggunaan IDE juga sering terjadi ketika saya sedang mengerjakan project tugas kuliah dan dengan adanya IDE, sangat cukup membantu untuk menunjang pembangunan dan pengujian program tersebut. berikut contoh saya menggunakan Perangkat lunak IDE dengan nama aplikasi Visual Code Studio ketika saya mengerjakan tugas kuliah : <br>
+<br>
+berikut macam macam IDE yang sudah pernah saya coba diantaranya : <br>
+- Visual Code Studio
+- Dev C++
+- Android Studio (Penunjang untuk demo aplikasi)
+- Visual Studio 2022 (Penunujang software AndroidStudio)
+- Netbeans Java
+
+<br>
+- penggunaan Visual Code Studio saat mengerjakan tuags kuliah dengan framework Java<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-27%20071827.png?raw=true)<br>
+
+- penggunaan netbeans saat menegrjakan project java<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-27%20074204.png?raw=true)<br>
+
+- tampilan awal Studio 2022<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-27%20074401.png?raw=true)<br>
+
+- penggunaan dalam pengerjaan C++ editor<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-27%20074448.png?raw=true)<br>
+
+- penggunaan saat mengerjakan aplikasi dengan framework flutter di android studio <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-27%20074529.png?raw=true)<br>
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+Saya mendaftar hacker rank dengan email : satrianinja24@gmail.com
+dengan Username Hilman Maulana<br>
+<br>
+berikut ketika saya mencoba mengekspolarasi dan mecoba penggunaan hacker rank : <br>
+- tampilan awal HackerRank <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-26%20203853.png?raw=true)<br>
+- ketika mencoba menyelesaikan quest misi hackerrank : <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-26%20204039.png?raw=true)<br>
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+  (mengambil project UTS informatika)
+  link github repository : https://github.com/ImYourIgnatius/UTSInformatika
+  link Penjelasan Aplikasi : https://github.com/ImYourIgnatius/FirstJourney/blob/main/PengenalanIF.md
+
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+
+
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
