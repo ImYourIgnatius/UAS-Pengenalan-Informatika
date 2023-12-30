@@ -1,4 +1,4 @@
-# UAS-Pengenalan-Informatika
+![image](https://github.com/ImYourIgnatius/UAS-Pengenalan-Informatika/assets/132290331/2e3cc3ce-7df9-4c2f-869e-b63c708512dd)# UAS-Pengenalan-Informatika
 
 
 
@@ -253,6 +253,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan data scientist lain, mempelajari informasi baru dan trik coding, serta melihat berbagai contoh aplikasi data science di dunia nyata. Ada banyak kumpulan data yang dapat digunakan untuk apa saja yang sederhana seperti penjualan video game, hingga sesuatu yang lebih kompleks dan penting seperti data polusi udara. Data ini nyata dan direferensikan, sehingga Anda dapat melatih dan menguji model Anda pada proyek yang pada akhirnya dapat membantu orang-orang lain. <br>
+Data scientist dari semua tingkatan dapat mengambil manfaat dari sumber daya dan komunitas di Kaggle. Baik jika Anda seorang pemula yang ingin mempelajari keterampilan baru dan berkontribusi pada proyek, atau seorang data scientist tingkat lanjut yang mencari kompetisi, Kaggle menjadi tempat yang tepat untuk dikunjungi. <br>
+Saya membuat akun kaggle dengan username Hilmanmaulana1612 dengan link Profile https://www.kaggle.com/hilmanmaulana1612/Home <br>
+- Tampilan main home keggle 
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20171446.png?raw=true) <br>
+- Tampilan profile account 
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20171633.png?raw=true) <br>
+- Tampilan Saat mencoba notebbook keggle
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20172104.png?raw=true) <br>
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
