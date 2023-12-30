@@ -164,6 +164,8 @@ berikut macam macam IDE yang sudah pernah saya coba diantaranya : <br>
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 Saya mendaftar hacker rank dengan email : satrianinja24@gmail.com
 dengan Username Hilman Maulana<br>
+HackerRank merupakan sebuah platform yang dapat kita manfaatkan untuk mengasah kemampuan dalam bidang programming. Selain programming, kita juga dapat mempelajari database, security, distributed system, dan sebagainya. Jelas, semua itu berhubungan dengan pemrograman. <br>
+Di HackerRank, layaknya online judge pada umumnya, terdapat banyak challenge yang dapat kita selesaikan. Dimulai dari yang easy, hingga ke yang level expert. Sangat banyak challenge yang tersedia sehingga kita tidak akan pernah bosan. Kompetisi atau contest rutin diadakan dan beberapa di antaranya memberikan hadiah yang tergolong besar. Selain itu, kita juga dapat membuat kompetisi "kecil" kita sendiri dengan memanfaatkan fitur HackerRank.<br>
 <br>
 berikut ketika saya mencoba mengekspolarasi dan mecoba penggunaan hacker rank : <br>
 - tampilan awal HackerRank <br>
@@ -173,9 +175,9 @@ berikut ketika saya mencoba mengekspolarasi dan mecoba penggunaan hacker rank : 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-  (mengambil project UTS informatika)
-  link github repository : https://github.com/ImYourIgnatius/UTSInformatika
-  link Penjelasan Aplikasi : https://github.com/ImYourIgnatius/FirstJourney/blob/main/PengenalanIF.md
+  (mengambil project UTS informatika) <br>
+  link github repository : https://github.com/ImYourIgnatius/UTSInformatika <br>
+  link Penjelasan Aplikasi : https://github.com/ImYourIgnatius/FirstJourney/blob/main/PengenalanIF.md 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
@@ -217,7 +219,6 @@ Referensi []
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
@@ -255,6 +256,28 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+Protokol MQTT (Message Queuing Telemetry Transport) adalah protokol yang berjalan pada diatas stack TCP/IP dan mempunyai ukuran paket data dengan low overhead yang kecil (minimum 2 bytes) sehingga berefek pada konsumsi catu daya yang juga cukup kecil. <br>
+Protokol ini adalah jenis protokol data-agnostic yang artinya anda bisa mengirimkan data apapun seperti data binary, text bahkan XML ataupun JSON dan protokol ini memakai model publish/subscribe daripada model client-server. <br>
+<br>
+MQTT mempunyai 14 tipe sinyal kontrol seperti berikut:
+- CONNECT — Client request to connect to Server
+- CONNACK — Connection Acknowledgement
+- PUBLISH — A message which represents a new/separate publish
+- PUBACK — QoS 1 Response to a PUBLISH message
+- PUBREC — First part of QoS 2 message flow
+- PUBREL — Second part of QoS 2 message flow
+- PUBCOMP — Last part of the QoS 2 message flow
+- SUBSCRIBE — A message used by clients to subscribe to specific topics
+- SUBACK — Acknowledgement of a SUBSCRIBE message
+- UNSUBSCRIBE — A message used by clients to unsubscribe from specific topics
+- UNSUBACK — Acknowledgement of an UNSUBSCRIBE
+- message
+- PINGREQ — Heartbeat message
+- PINGRESP — Heartbeat message acknowledgement
+- DISCONNECT — Graceful disconnect message sent by clients
+<br>
+Dari sinyal sinyal tersebut hanya 4 sinyal utama yang dipakai langsung oleh klien seperti PUBLISH, SUBSCRIBE, UNSUBSCRIBE, CONNECT dan sinyal lainnya merupakan bagian dari mekanisme kerja publish/subscribe.
+
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
@@ -262,10 +285,33 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+- Tampilan awal IEEE
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20154347.png?raw=true)<br>
+- Artikel Jurnal IEEE yang berjudul "Formalization of UML class diagram using description logics", setelah saya baca singkat Journal tersebut notasi pemodelan objek standar, didefinisikan formal dengan Description Logics. <br>
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20154930.png?raw=true)<br>
+- Jurnal jurnal yang berhubungan informatika di website DBLP
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20154916.png?raw=true)<br>
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20154908.png?raw=true)<br>
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+Setelah saya mencari refrensi terkait Tugas Akhir Yang berlinier Informatika, saya menemukan video di Youtube yang menurut saya bagus untuk di pelajari. <br>
+Judul Video Tugas Akhir : PERANCANGAN SISTEM INFORMASI PENJUALAN PADA TOKO LEGENDA PETSHOP <br>
+Tugas akhir tersebut, di rancang oleh kak Noviani Jemima dari Universitas Bina Nusantara. Tugas akhir tersebut berfokus pada aplikasi penjualan lengkap dengan semua perancangan perancangan yang dibutuhkan meliputi Latar Belakang, Analaisa kebutuhan UI dan UX Aplikasi, Use Case tampilan User dll. 
+- Video Presentasi : ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20154018.png?raw=true)<br>
+  
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+
+Profesi IT yang diminati berdasarkan passion dan tujuan hidup ke depannya:
+
+- CyberSecurity Engineer
+- Penetration Tester
+- Fullstack App Developer
+- Database Specialist
+- UI UX Designer specialist
+- Business Analyst
+
+Seluruh profofesi diatas saya ingin memperalaminya guna sebagai acuan untuk saya nanti kedepan karena ingin membuat perusahaan kecil kecilan
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
@@ -311,13 +357,39 @@ Link gif dari developer : <br>
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+LinkedIn profile milik saya pribadi dengan nama Hilman Maulana <br>
+www.linkedin.com/in/fatih-maulana-informatics2023 <br>
+list akun informatika yang telah diikuti adalah: <br>
+- Cisco
+- Xiaomi Technology
+- Logitech
+- Microsoft
+- Telkomsel
+- ID Cloudhost
+- Grab Indonesia
 
 
+Tampilan Main Utama Website Linkedin :
+   ![Screenshot (88)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20150450.png?raw=true)
+
+Tampilan Akun Akun Inspiratif : 
+   ![Screenshot (90)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20150630.png?raw=true)
+    ![Screenshot (90)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20150816.png?raw=true)
+     ![Screenshot (90)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20150801.png?raw=true)
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 Github page milik saya a/n Hilman Maulana:
 https://github.com/ImYourIgnatius
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+
+- Saat mengikuti event DCT STAKEHOLDER MEETING PROGRAM yang diadakan oleh CEO PT Konakami Digital Indonesia 
+![Screenshot (90)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot_2023-12-30-15-14-40-397_com.google.android.youtube.jpg?raw=true)
+
+- Course Promo yang diadakan oleh DicodingStudio
+  - ![Screenshot (90)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20152635.png?raw=true)
+  - ![Screenshot (90)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20152736.png?raw=true)
+  - ![Screenshot (90)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20152726.png?raw=true)
+  - ![Screenshot (90)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20151935.png?raw=true)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
