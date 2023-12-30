@@ -1,6 +1,4 @@
-![image](https://github.com/ImYourIgnatius/UAS-Pengenalan-Informatika/assets/132290331/2e3cc3ce-7df9-4c2f-869e-b63c708512dd)# UAS-Pengenalan-Informatika
-
-
+# UAS-Pengenalan-Informatika
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational Thinking adalah cara berpikir yang memungkinkan kita berpikir dengan cara komputer(computational), yaitu berpikir secara kompleks yang memiliki langkah langkah yang terurut sehingga masalah yang sebelumnya susah akan menjadi mudah. Computational Thinking merupakan pemikiran yang bukan hanya harus di miliki oleh Seorang enginner, namun pemikiran ini harus di doktrin oleh orang orang yang ada di dunia ini, karena dengan cara berpikir yang krusial dan kompleks kita bisa merancang dan memikirkan bagaimana resolusi dari setiap masalah yang ada.
