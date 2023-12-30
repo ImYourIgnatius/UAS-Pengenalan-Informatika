@@ -245,6 +245,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+https://www.kaggle.com/datasets/rafsunahmad/terrorist-attacks-data-since-1970-2023
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
