@@ -178,6 +178,14 @@ berikut ketika saya mencoba mengekspolarasi dan mecoba penggunaan hacker rank : 
   link Penjelasan Aplikasi : https://github.com/ImYourIgnatius/FirstJourney/blob/main/PengenalanIF.md 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+Database
+Dalam bahasa yang sederhana, database adalah sekumpulan data yang terstruktur. Anggap saja Anda sedang berpose selfie: yang dilakukan pastilah menekan tombol kamera depan, lalu mengabadikan potret diri. Foto selfie yang diambil adalah data, sedangkan galeri foto merupakan database. <br>
+Database adalah tempat untuk menyimpan dan mengelola data. Kata “relasional” berarti data yang disimpan di dataset dikelola sebagai tabel. Setiap tabel saling terkait. Jika software tidak mendukung model data relasional, maka yang dipanggil hanyalah DBMS.<br>
+Dan disini saya mencoba menginstall database menggunakan Software MySQL
+    - saat proses instalasi my sql
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20005707.png?raw=true)<br>
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20005800.png?raw=true)<br>
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20005923.png?raw=true)<br>
 
 
 
@@ -185,11 +193,20 @@ Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+    - saat proses instalasi DBeaver
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20010626.png?raw=true)<br>
+    - saat proses Ekspolarasi Dbeaver
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20011732.png?raw=true)<br>
+    - Video saat saya mengeksplorasi DBeaver : https://drive.google.com/file/d/1b21AI6jvy6lbNyhj1ukQ_0q2od-qpdPD/view?usp=drive_link
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+Penggunaan web browser untuk mengakses halaman website HTML merujuk pada tindakan pengguna dalam membuka browser, memasukkan alamat URL (Uniform Resource Locator) halaman web, dan menjelajahi serta berinteraksi dengan konten yang dihasilkan oleh HTML (Hypertext Markup Language). Web browser adalah aplikasi yang memungkinkan pengguna untuk mengakses dan menampilkan halaman web, sedangkan HTML adalah bahasa markup yang digunakan untuk membangun struktur dan konten halaman web. Dengan menggunakan browser, pengguna dapat mengakses berbagai informasi, gambar, dan elemen interaktif yang disusun menggunakan HTML di berbagai situs web di internet. Ini adalah cara umum di mana pengguna terhubung dengan konten online dan berinteraksi dengan aplikasi web.
+
+- Penggunaan web browser untuk mengakses HTML Online
+  - 
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
@@ -287,11 +304,34 @@ MQTT mempunyai 14 tipe sinyal kontrol seperti berikut:
 Dari sinyal sinyal tersebut hanya 4 sinyal utama yang dipakai langsung oleh klien seperti PUBLISH, SUBSCRIBE, UNSUBSCRIBE, CONNECT dan sinyal lainnya merupakan bagian dari mekanisme kerja publish/subscribe.
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+file csv (Comma-Separated Values) adalah format penyimpanan data yang digunakan untuk menyimpan dan mengelola data dalam bentuk teks yang sederhana dan terstruktur. Format ini memungkinkan data untuk disimpan dalam tabel, di mana setiap baris dari tabel mewakili satu baris data, dan kolom-kolomnya dipisahkan oleh tanda koma. File CSV sering digunakan untuk pertukaran data antara aplikasi dan platform yang berbeda.
 
+demonstrasi penggunaan dan pengolahan file CSV dengan google colab menggunakan bahasa python ada di video berikut:
+
+- Penjelasan : https://drive.google.com/file/d/1nroWHq1PQN4H1FHMeUtTPKVqNYokIAE3/view?usp=sharing <br>
+- Referensi File CSV : [Dataset](https://drive.google.com/drive/folders/1Qu1Fwl4DGQcw1x9I3TeX7_iJRc5G1I4S)
+
+  - berikut dokumentasi saat penggunaan CSV di Google colaboratory
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20002753.png?raw=true) <br>
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20002801.png?raw=true) <br>
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+ORC dalam big data adalah Optimized Row Columnar File ORC (Optimized Row Columnar) dalam konteks Big Data adalah format penyimpanan kolom yang dioptimalkan untuk kinerja query dan analisis data. Format ini dikembangkan terutama untuk digunakan dengan Apache Hive, sebuah platform query data yang dibangun di atas Apache Hadoop.
 
+Dalam file ORC, data disusun dalam bentuk kolom (columnar storage) alih-alih baris (row-based storage) seperti format file tradisional. Ini memungkinkan keuntungan performa tertentu, terutama ketika hanya sebagian kecil dari kolom yang dibaca atau diakses dalam query.
+
+Penjelasan : https://drive.google.com/file/d/1fm7akRvym0IqkFOJr3wnZt2r5mpT2AK8/view?usp=drive_link <br>
+Referensi File Big Data : [Keggle](https://www.kaggle.com/datasets/stpeteishii/world-tallest-buildings?resource=download) 
+    - file dari keggle 
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20002813.png?raw=true) <br>
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+Disini saya mencoba menjelaskan jurnal tentang pendidikan yang berjudul "Implementasi Artificial Intelligence (AI) di Bidang Pendidikan Kejuruan Pada Era Revolusi Industri 4.0" dan dikembangkan oleh kak Muhammad yahya, Kak Wahyudi dan juga Kak Hidayat dari Universitas Negeri Makassar. 
 
+- Referensi Jurnal : [Jurnal](https://drive.google.com/drive/folders/1Qu1Fwl4DGQcw1x9I3TeX7_iJRc5G1I4S)
+- Penjelasan : https://drive.google.com/file/d/1oz8u4EO147Wz9EduaqRzzGZpzpwSDRZs/view?usp=drive_link
+
+  - Jurnal
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20000100.png?raw=true) <br>
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20000111.png?raw=true) <br>
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 - Tampilan awal IEEE
   ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-30%20154347.png?raw=true)<br>
