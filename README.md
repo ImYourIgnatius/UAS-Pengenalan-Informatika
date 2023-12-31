@@ -205,33 +205,67 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 Penggunaan web browser untuk mengakses halaman website HTML merujuk pada tindakan pengguna dalam membuka browser, memasukkan alamat URL (Uniform Resource Locator) halaman web, dan menjelajahi serta berinteraksi dengan konten yang dihasilkan oleh HTML (Hypertext Markup Language). Web browser adalah aplikasi yang memungkinkan pengguna untuk mengakses dan menampilkan halaman web, sedangkan HTML adalah bahasa markup yang digunakan untuk membangun struktur dan konten halaman web. Dengan menggunakan browser, pengguna dapat mengakses berbagai informasi, gambar, dan elemen interaktif yang disusun menggunakan HTML di berbagai situs web di internet. Ini adalah cara umum di mana pengguna terhubung dengan konten online dan berinteraksi dengan aplikasi web.
 
-- Penggunaan web browser untuk mengakses HTML Online
-  - 
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+- Penjelasan Video : [Drive](https://drive.google.com/file/d/1SjpKSIXvEfwpnigI8pNaQE9HeHskks5v/view?usp=drive_link)
+- Website IFDIgital dibangun dengan HTML
+- ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20015515.png?raw=true)<br>
+- Membuka file Portofolio di browser dengan bahasa HTML
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20015546.png?raw=true)<br>
+- HTML Pada Portofolio
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20015528.png?raw=true)<br>
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+URL (Uniform Resource Locator) adalah alamat web yang digunakan untuk mengidentifikasi lokasi spesifik dari suatu sumber daya di internet. URL terdiri dari beberapa komponen yang memberikan informasi tentang cara mengakses sumber daya tersebut. Berikut adalah komponen-komponen utama dari contoh URL:
+1. **Scheme:**
+   - Contoh: `https://`
+   Skema menunjukkan protokol yang digunakan untuk mengakses sumber daya. Pada contoh di atas, skema adalah HTTPS (Hypertext Transfer Protocol Secure), yang menandakan penggunaan protokol aman.
+2. **Host:**
+   - Contoh: `www.example.com`
+   Host atau induk adalah alamat dari server yang menyimpan sumber daya. Pada contoh di atas, host adalah "www.example.com".
+3. **Port:**
+   - Contoh: `:8080`
+   Port adalah nomor port pada server yang digunakan untuk mengakses sumber daya. Secara default, port HTTP adalah 80, dan HTTPS adalah 443. Namun, jika spesifik port digunakan, itu akan ditampilkan seperti pada contoh di atas.
+4. **Path:**
+   - Contoh: `/path/to/resource`
+   Jalur menunjukkan lokasi spesifik dari sumber daya di server. Pada contoh di atas, sumber daya tersebut terletak di jalur "/path/to/resource".
+5. **Query String:**
+   - Contoh: `?param1=value1&param2=value2`
+   Query string memberikan parameter tambahan untuk request. Pada contoh di atas, query string mengandung dua parameter, yaitu "param1" dengan nilai "value1" dan "param2" dengan nilai "value2".
+6. **Fragment:**
+   - Contoh: `#section`
+   Fragment memberikan referensi ke bagian spesifik dari sumber daya. Pada contoh di atas, fragment mengarahkan ke bagian dengan nama "section" di dalam sumber daya tersebut.
+Dengan menggabungkan semua komponen tersebut, sebuah URL memberikan petunjuk lengkap tentang cara mengakses suatu sumber daya di internet. Sebagai contoh, URL `https://www.example.com:8080/path/to/resource?param1=value1&param2=value2#section` mengandung semua komponen tersebut.
 
+- Contoh dalam website IF Digital `https://if.uinsgd.ac.id/page/kelompok-keahlian` yaitu `https://` sebagai scheme dan `if.uinsgd.ac.id/` sebagai host dan juga `/page/kelompok-keahlian` sebagai path
+- Link Video Demonstrasi : [Drive](https://drive.google.com/file/d/1XD7KvWLhtOyIh3C6HMYMDzAuHa-2X0lM/view?usp=drive_link)
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+- Link Video Demonstrasi : [Drive](https://drive.google.com/file/d/1GK9ig4gYz4JF-cVFbgCzzdWxc0ixhfQM/view?usp=drive_link)
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+Source Code Website Portofolio : [Drive](https://drive.google.com/drive/folders/1mopEpbFU2ziTw_TnwbLtlYYj7MgAY3Dp?usp=sharing)
+- Isi konten halaman web : [HTML](https://drive.google.com/file/d/1wWX2AlCdEd6p4UfCRRnb4MO0pI9ako6S/view?usp=drive_link)
+- Styling halaman web : [CSS](https://drive.google.com/file/d/11ksmNJWuJBqVdlJmzFo1WFYfFOEpUfYY/view?usp=drive_link)
+- Interaktivitas halaman web : [JavaScript](https://drive.google.com/file/d/16HlJbj6x-0bAeHTEczfmu2297BufvffI/view?usp=drive_link)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
+Contoh penerapan SEO salah satunya menggunakan TAG atau Kata Kunci pada website, yang dimana hal ini akan meningkatkan munculnya website kita pada ranking teratas di Search Engine.
+saya menerapkan kata kunci ini pada wordpress saya untuk menghafal alquran.
+berikut saat saya membuat kata kunci : 
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20025452.png?raw=true) <br>
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-
+JSON adalah format yang menyimpan informasi terstruktur serta banyak digunakan sebagai alternatif yang lebih sederhana dan ringan dari XML (Extensive Markup Language). <br>
+Format XML kini sudah cukup jarang digunakan karena sulit dikonversi menjadi objek JavaScript. Butuh ribuan baris kode dan banyak kustomisasi berdasarkan elemen tertentu yang perlu diuraikan (parse). <br>
+Sebagai perbandingan, parser JSON hanya membutuhkan satu baris kode untuk mengubah teks menjadi JavaScript karena syntax keduanya sangat mirip. <br>
+JSON menggunakan parsing sisi server untuk meningkatkan responsivitas. Prosesnya tidak memerlukan informasi awal tentang objek parsing, sehingga JSON kini banyak digunakan sebagai format standar pertukaran data. <br>
+User juga bisa meminta data dari berbagai domain dengan memanfaatkan metode yang disebut ‘JSON padding’ (JSONP), yang menggunakan fungsi callback untuk mengirimkan data JSON. Hasilnya, batasan  same-origin policy pun tidak lagi menjadi halangan. <br>
+- Pembuatan file JSON menggunakan bantuan IDE Notepad
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20030203.png?raw=true) <br>
+Referensi [https://www.hostinger.co.id/tutorial/apa-itu-json]
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
@@ -239,14 +273,19 @@ Referensi []
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-
+Penjelasan Video : [Drive](https://drive.google.com/file/d/1htxr0n82lc2nUgGuUeznpeVAwaq4tIdr/view?usp=drive_link)
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-
+Akun wordpress saya [https://informatikauin9.wordpress.com/] <br>
+disini saya telah mmembuat beberapa konten yaitu salah satunya berjudul "Pentingnya Memelihara Al-Qur’an",
+- tampilan home wordpress saya
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20031224.png?raw=true) <br>
+- tampilan konten wordpress
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20031307.png?raw=true) <br>
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
