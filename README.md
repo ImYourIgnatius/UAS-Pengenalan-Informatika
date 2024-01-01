@@ -193,11 +193,13 @@ Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-    - saat proses instalasi DBeaver
-    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20010626.png?raw=true)<br>
-    - saat proses Ekspolarasi Dbeaver
-    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20011732.png?raw=true)<br>
-    - Video saat saya mengeksplorasi DBeaver : https://drive.google.com/file/d/1b21AI6jvy6lbNyhj1ukQ_0q2od-qpdPD/view?usp=drive_link
+
+- saat proses instalasi DBeaver
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20010626.png?raw=true)<br>
+  - saat proses Ekspolarasi Dbeaver
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20011732.png?raw=true)<br>
+
+- Video saat saya mengeksplorasi DBeaver : [https://drive.google.com/file/d/1b21AI6jvy6lbNyhj1ukQ_0q2od-qpdPD/view?usp=drive_link]
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
