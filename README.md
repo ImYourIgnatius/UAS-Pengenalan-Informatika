@@ -360,7 +360,9 @@ Ciri-ciri utama bahasa pemrograman Logo meliputi:
 8. **Open Source:**
    - Beberapa implementasi Logo bersifat open source, memungkinkan pengembang untuk mengakses dan memodifikasi sumber kode sesuai kebutuhan.
 Meskipun Logo awalnya dikembangkan untuk tujuan pendidikan anak-anak, konsep-konsep dalam Logo, seperti rekursi dan kontrol alur, memiliki nilai yang luas dan dapat membantu pemula memahami dasar-dasar pemrograman. Implementasi Logo yang populer termasuk "UCBLogo" dan "MSWLogo." Meskipun tidak sepopuler beberapa bahasa pemrograman lainnya, Logo tetap relevan sebagai alat pembelajaran pemrograman dasar.
-
+- mencoba game logo menggunakan website Transum.org [https://www.transum.org/Software/Logo/]
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20010442.png?raw=true) <br>
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20010825.png?raw=true) <br>
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 - mencoba pemprosesan text menjadi audio di google colab
@@ -368,11 +370,17 @@ Meskipun Logo awalnya dikembangkan untuk tujuan pendidikan anak-anak, konsep-kon
 - mencoba pemprosesan Image menjadi text di google colab
   ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20004057.png?raw=true) <br>
   ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20004105.png?raw=true) <br>
-Link Video : https://drive.google.com/file/d/1qFx4vkNgyneLSsztR8YFPz0RVhj3AqRY/view?usp=drive_link
+- Link Video : https://drive.google.com/file/d/1qFx4vkNgyneLSsztR8YFPz0RVhj3AqRY/view?usp=drive_link
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
+- mencoba pemprosesan image to text menggunakan website pallyy.com
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20014557.png?raw=true) <br>
+- link video : https://drive.google.com/file/d/1dSZTXBN7EeDunhZIPOWOnt0u18Zcl2Z2/view?usp=drive_link
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-
+- mencoba pemprosesan text to image
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20014211.png?raw=true) <br>
+- mencoba pemprosesan text to text
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20014217.png?raw=true) <br>
+- penjelasan video : https://drive.google.com/file/d/1dSZTXBN7EeDunhZIPOWOnt0u18Zcl2Z2/view?usp=drive_link
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 https://www.kaggle.com/datasets/rafsunahmad/terrorist-attacks-data-since-1970-2023
 
