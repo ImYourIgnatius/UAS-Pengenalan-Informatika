@@ -280,17 +280,29 @@ pada kali ini saya menggunakan webhosting gratis dari 000Webhost untuk menguploa
 Link webhosting portofolio yang hosting menggunakan 000webhost : [PortofolioKu](https://portofoliokuinformatikadev.000webhostapp.com/) 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-- link Video penggunaan : 
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+- link Video penggunaan : https://drive.google.com/file/d/1aQZTjvHd10ZxgmEDrFYvv4yFNLlpzvuv/view?usp=drive_link
+## Mencoba HTTP Request dan Web API dengan Postman [v] ⭐⭐
 Postman adalah developing tools yang membantu penggunanya untuk membangun, menguji, dan memodifikasi API. Ia menawarkan para developer berbagai fitur dan fungsi yang penting sehingga kinerjanya dapat berlangsung mudah dan sederhana. Bahkan, ia telah mencapai 5 juta pengguna tiap bulannya. <br>
 Ketika menjalankan pengujian, Postman mengirim request API ke server web dan kemudian menerima segala jenis respons. Sesuai dengan namanya,  ia berfungsi layaknya tukang pos <br>
 Aplikasi ini dapat mengakomodasi berbagai jenis request HTTP, menyimpan lingkungan untuk penggunaan selanjutnya, hingga mengubah API menjadi kode dengan berbagai bahasa pemrograman, seperti JavaScript dan Python. <br>
 Postman juga menawarkan banyak metode endpoint. Berikut ini yang paling populer beserta fungsinya:
     - GET: Dapatkan informasi
-    - POST: Tambahkan informasi
+    - POST: Tambahkan informasir
     - PUT: Ganti informasi
     - PATCH: Perbarui informasi tertentu
     - DELETE: Hapus informasi
+
+- Berikut adalah beberapa contoh URL (link) yang dapat Anda gunakan untuk mencoba GET request menggunakan Postman. Gunakan URL ini sebagai contoh saat mencoba langkah-langkah yang telah dijelaskan sebelumnya:
+    JSONPlaceholder - Mendapatkan Informasi Post:
+        URL: https://jsonplaceholder.typicode.com/posts/1
+    JSONPlaceholder - Mendapatkan Daftar Pengguna:
+        URL: https://jsonplaceholder.typicode.com/users
+    REST Countries - Mendapatkan Informasi Negara:
+        URL: https://restcountries.com/v3.1/name/united
+    OpenWeatherMap - Mendapatkan Informasi Cuaca:
+        URL: https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY
+    Gantilah YOUR_API_KEY dengan kunci API OpenWeatherMap yang valid. Anda dapat mendaftar untuk mendapatkan kunci API di OpenWeatherMap.
+
 
 Referensi [1](https://www.sekawanmedia.co.id/blog/postman-api/)
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
