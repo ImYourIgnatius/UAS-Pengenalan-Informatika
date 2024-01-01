@@ -268,7 +268,7 @@ User juga bisa meminta data dari berbagai domain dengan memanfaatkan metode yang
 Referensi [https://www.hostinger.co.id/tutorial/apa-itu-json]
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 pada kali ini saya menggunakan webhosting gratis dari 000Webhost untuk mengupload doc html
-- link Video penggunaan : 
+- link Video penggunaan : https://drive.google.com/file/d/1aQZTjvHd10ZxgmEDrFYvv4yFNLlpzvuv/view?usp=drive_link
 - Tampilan home 000webhost :
     ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20223738.png?raw=true) <br>
 - saat proses upload file ke hosting
@@ -303,6 +303,13 @@ Postman juga menawarkan banyak metode endpoint. Berikut ini yang paling populer 
         URL: https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY
     Gantilah YOUR_API_KEY dengan kunci API OpenWeatherMap yang valid. Anda dapat mendaftar untuk mendapatkan kunci API di OpenWeatherMap.
 
+- Penjelasan Postman : https://drive.google.com/file/d/1cV0pFkd8L-TFO2KPmuYkYHlDlArN2PQE/view?usp=drive_link
+- website home postman
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20230124.png?raw=true) <br>
+- saat mencoba get request api dari link
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20230512.png?raw=true) <br>
+- main home software developing tool postman
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20230347.png?raw=true) <br>
 
 Referensi [1](https://www.sekawanmedia.co.id/blog/postman-api/)
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
@@ -334,10 +341,34 @@ disini saya telah mmembuat beberapa konten yaitu salah satunya berjudul "Penting
   ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20222445.png?raw=true) <br>
   
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+Bahasa pemrograman Logo adalah bahasa pemrograman yang diciptakan pada tahun 1967 oleh Seymour Papert dan tim di Laboratorium Kecerdasan Buatan Massachusetts Institute of Technology (MIT). Logo dirancang untuk digunakan sebagai alat pendidikan, khususnya untuk mengajarkan konsep-konsep pemrograman kepada anak-anak.
+Ciri-ciri utama bahasa pemrograman Logo meliputi:
+1. **Sederhana dan Intuitif:**
+   - Logo didesain agar mudah dipahami, bahkan oleh anak-anak. Struktur bahasanya sederhana dan intuitif.
+2. **Turtle Graphics:**
+   - Salah satu fitur utama Logo adalah "turtle graphics," di mana pemrogram dapat mengendalikan gambar sederhana yang disebut "turtle" untuk menggambar di layar. Perintah-perintah seperti `forward`, `backward`, `right`, dan `left` digunakan untuk menggerakkan turtle.
+3. **Interaktif:**
+   - Logo bersifat interaktif, memungkinkan pengguna untuk berinteraksi langsung dengan perintah-perintah dan melihat hasilnya secara langsung di layar.
+4. **Prosedur dan Fungsi:**
+   - Logo mendukung konsep prosedur dan fungsi, memungkinkan pemrogram untuk membuat dan menggunakan blok-blok kode yang dapat dipanggil.
+5. **Pendidikan dan Pembelajaran:**
+   - Tujuan utama Logo adalah menjadi alat pendidikan yang efektif. Dengan menggunakan turtle graphics, anak-anak dapat belajar konsep-konsep pemrograman sambil bersenang-senang.
+6. **Konsep Rekursi:**
+   - Logo memperkenalkan konsep rekursi dengan fitur pemanggilan diri sendiri, yang dapat digunakan untuk membuat struktur repetitif dan pola-pola kompleks.
+7. **Portabilitas:**
+   - Logo telah diimplementasikan dalam berbagai versi untuk berbagai platform dan sistem operasi.
+8. **Open Source:**
+   - Beberapa implementasi Logo bersifat open source, memungkinkan pengembang untuk mengakses dan memodifikasi sumber kode sesuai kebutuhan.
+Meskipun Logo awalnya dikembangkan untuk tujuan pendidikan anak-anak, konsep-konsep dalam Logo, seperti rekursi dan kontrol alur, memiliki nilai yang luas dan dapat membantu pemula memahami dasar-dasar pemrograman. Implementasi Logo yang populer termasuk "UCBLogo" dan "MSWLogo." Meskipun tidak sepopuler beberapa bahasa pemrograman lainnya, Logo tetap relevan sebagai alat pembelajaran pemrograman dasar.
 
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
+- mencoba pemprosesan text menjadi audio di google colab
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20004046.png?raw=true) <br>
+- mencoba pemprosesan Image menjadi text di google colab
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20004057.png?raw=true) <br>
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20004105.png?raw=true) <br>
+Link Video : https://drive.google.com/file/d/1qFx4vkNgyneLSsztR8YFPz0RVhj3AqRY/view?usp=drive_link
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
