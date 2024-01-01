@@ -267,11 +267,32 @@ User juga bisa meminta data dari berbagai domain dengan memanfaatkan metode yang
   ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20030203.png?raw=true) <br>
 Referensi [https://www.hostinger.co.id/tutorial/apa-itu-json]
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+pada kali ini saya menggunakan webhosting gratis dari 000Webhost untuk mengupload doc html
+- link Video penggunaan : 
+- Tampilan home 000webhost :
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20223738.png?raw=true) <br>
+- saat proses upload file ke hosting
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20224202.png?raw=true) <br>
+- saat run situs webhosting
+    ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20224302.png?raw=true) <br>
+
+
+Link webhosting portofolio yang hosting menggunakan 000webhost : [PortofolioKu](https://portofoliokuinformatikadev.000webhostapp.com/) 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
+- link Video penggunaan : 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+Postman adalah developing tools yang membantu penggunanya untuk membangun, menguji, dan memodifikasi API. Ia menawarkan para developer berbagai fitur dan fungsi yang penting sehingga kinerjanya dapat berlangsung mudah dan sederhana. Bahkan, ia telah mencapai 5 juta pengguna tiap bulannya. <br>
+Ketika menjalankan pengujian, Postman mengirim request API ke server web dan kemudian menerima segala jenis respons. Sesuai dengan namanya,  ia berfungsi layaknya tukang pos <br>
+Aplikasi ini dapat mengakomodasi berbagai jenis request HTTP, menyimpan lingkungan untuk penggunaan selanjutnya, hingga mengubah API menjadi kode dengan berbagai bahasa pemrograman, seperti JavaScript dan Python. <br>
+Postman juga menawarkan banyak metode endpoint. Berikut ini yang paling populer beserta fungsinya:
+    - GET: Dapatkan informasi
+    - POST: Tambahkan informasi
+    - PUT: Ganti informasi
+    - PATCH: Perbarui informasi tertentu
+    - DELETE: Hapus informasi
 
+Referensi [1](https://www.sekawanmedia.co.id/blog/postman-api/)
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 Penjelasan Video : [Drive](https://drive.google.com/file/d/1htxr0n82lc2nUgGuUeznpeVAwaq4tIdr/view?usp=drive_link)
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
@@ -287,10 +308,21 @@ disini saya telah mmembuat beberapa konten yaitu salah satunya berjudul "Penting
 - tampilan konten wordpress
   ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20031307.png?raw=true) <br>
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+- pengaksesan konten multimedia di file manager/file explorer windows
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20221925.png?raw=true) <br>
+- pengaksesan konten multimedia di wesbite online
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20221732.png?raw=true) <br>
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20221337.png?raw=true) <br>
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
+- mencoba editing konten video di software Capcut PC
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20222158.png?raw=true) <br>
+  - saat mencoba mengedit video ibunda
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20222401.png?raw=true) <br>
+- mencoba editing konten audio di software Adobe Audition 2022
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-01%20222445.png?raw=true) <br>
+  
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
@@ -445,7 +477,7 @@ Link gif dari developer : <br>
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 LinkedIn profile milik saya pribadi dengan nama Hilman Maulana <br>
-www.linkedin.com/in/fatih-maulana-informatics2023 <br>
+https://www.linkedin.com/in/hilman-maulana-900ba82a3/ <br>
 list akun informatika yang telah diikuti adalah: <br>
 - Cisco
 - Xiaomi Technology
