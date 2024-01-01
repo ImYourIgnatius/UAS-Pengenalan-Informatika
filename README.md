@@ -383,10 +383,33 @@ Meskipun Logo awalnya dikembangkan untuk tujuan pendidikan anak-anak, konsep-kon
 - penjelasan video : https://drive.google.com/file/d/1dSZTXBN7EeDunhZIPOWOnt0u18Zcl2Z2/view?usp=drive_link
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 https://www.kaggle.com/datasets/rafsunahmad/terrorist-attacks-data-since-1970-2023
+- Link Video Penjelasan : [https://drive.google.com/file/d/1gBuewo63nub6Pi3ZX-vF62IMVhRurJCu/view?usp=drive_link]
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+Data visualization menggunakan tools dapat dilakukan dengan beberapa online tools seperti:
+- Google Data Studio
+- MatPlotLib python
+- D3.js
+- dan yang paling terkenal yaitu Microsoft EXCEL
+
+  - data visualization dengan excel (menggunakan data dari praktikum fisika dasar)
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/292900805-1fb256c1-14d8-484a-bb39-5dc42d4b4abb.png?raw=true) <br>
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+Saya mencoba data visualisasi menggunakan tools google colab sebagai tools pendukung.
+disini saya mencoba beberapa data visualiasi dantaranya bar plot, line plot, dan heat map sebagai visualiasasi. dan juga saya menggunakan dataset "Terrorist Attacks Data Since 1970-2023" yang saya dapatkan dari website keggle [https://www.kaggle.com/datasets/rafsunahmad/terrorist-attacks-data-since-1970-2023/data].
+
+- file csv "Terrorist Attacks Data Since 1970-2023"
+  ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20023020.png?raw=true) <br>
+
+- ketika saya mencoba visualisasi di google colab
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20022345.png?raw=true) <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20022355.png?raw=true) <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20022402.png?raw=true) <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20022409.png?raw=true) <br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202024-01-02%20022415.png?raw=true) <br>
+
+link penjelasan video : [https://drive.google.com/file/d/1O6cphlDfQ4-Kytl3F2WKC68cf2zX74eK/view?usp=drive_link]
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
@@ -484,14 +507,19 @@ Profesi IT yang diminati berdasarkan passion dan tujuan hidup ke depannya:
 Seluruh profofesi diatas saya ingin memperalaminya guna sebagai acuan untuk saya nanti kedepan karena ingin membuat perusahaan kecil kecilan
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
+Saat saya mengeksplorasi Aplikasi Duolinggo : 
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202024-01-02%20at%2002.49.24.jpeg?raw=true)<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202024-01-02%20at%2002.49.25(1).jpeg?raw=true)<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202024-01-02%20at%2002.49.25(2).jpeg?raw=true)<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202024-01-02%20at%2002.49.25.jpeg?raw=true)<br>
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
+Saat saya mengeksplorasi Aplikasi Hellotalk untuk mengobrol dengan orang luar negeri : 
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202024-01-02%20at%2002.49.43(1).jpeg?raw=true)<br>
+![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/WhatsApp%20Image%202024-01-02%20at%2002.49.43.jpeg?raw=true)<br>
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 setelah saya mengeksplorasi lowongan pekerjaan yang berunsur IT atau teknologi komputer, saya menemukan website lokal indonesia yang menyediakan tempat untuk mencari lowongan lowongan pekerjaan sesuai minat dan skill yang dimiliki oleh orang tersebut. banyak yang di cari atau di butuhkan saat saya mengekplorasi lowongan pekerjaan di website ini yaitu diantaranya ada UI/UX, desainer Web, fullstack developer, Cyber Security, dll. 
 berikut pekerjaan yang ada saat saya memasukan kata kunci "IT" <br>
 ![Screenshot (1)](https://github.com/ImYourIgnatius/assets/blob/main/Screenshot%202023-12-25%20222012.png?raw=true)<br>
-
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
